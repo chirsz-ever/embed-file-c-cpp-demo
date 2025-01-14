@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="example_string.txt">../example_string.txt</file>
+        <file alias="example_binary.png">../example_binary.png</file>
+    </qresource>
+</RCC>

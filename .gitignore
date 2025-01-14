@@ -3,3 +3,4 @@
 *.obj
 *.exe
 a.out
+.cache
