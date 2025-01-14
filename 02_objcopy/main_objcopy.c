@@ -11,7 +11,7 @@ void dump(const uint8_t arr[], size_t size)
 {
     for (size_t i = 0; i != size; ++i)
         printf("%02X ", arr[i]);
-    puts(" ...");
+    puts("...");
 }
 
 int main()
